@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="This is epic" />
         <p className="description">
-          welcomes
+          
         </p>
       </main>
 
